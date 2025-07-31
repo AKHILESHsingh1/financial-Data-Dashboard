@@ -32,4 +32,4 @@ This repository contains:
 
 ---
 ## ScreenShot
-![Sample Image](https://github.com/AKHILESHsingh1/financial-Data-Dashboard/blob/main/final%20finance%20data%20dashboard.pdf)
+![Sample Image]()
