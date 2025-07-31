@@ -31,3 +31,5 @@ This repository contains:
 - 🏆 Top Performing Products and Segments
 
 ---
+## ScreenShot
+![Sample Image](https://github.com/AKHILESHsingh1/financial-Data-Dashboard/blob/main/final%20finance%20data%20dashboard.pdf)
